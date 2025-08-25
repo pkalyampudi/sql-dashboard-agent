@@ -1,0 +1,6 @@
+#### `requirements.txt`
+anthropic
+sqlalchemy
+pandas
+plotly
+streamlit
