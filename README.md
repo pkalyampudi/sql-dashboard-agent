@@ -18,7 +18,7 @@ Streamlit for UI
 
 Clone the repo:
 
-git clone https://github.com/Poornachand/sql-to-dashboard-ai-agent.git
+git clone https://github.com/pkalyampudi/sql-dashboard-agent.git
 cd sql-to-dashboard-ai-agent
 
 Install dependencies:
